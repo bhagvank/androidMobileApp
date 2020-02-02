@@ -14,7 +14,7 @@
 
 
 
-    <TextView android:text="Corporate Portal Login"
+    <TextView android:text="Manager Login"
 
             android:textSize="16dip"
 
